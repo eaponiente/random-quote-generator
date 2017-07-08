@@ -1,1 +1,3 @@
-# random-quote-generator
+# Random Quote Generator
+
+Project for FreeCodeCamp.com
